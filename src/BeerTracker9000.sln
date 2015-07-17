@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerTracker9000", "BeerTracker9000\BeerTracker9000.csproj", "{3279F53E-554D-4E22-956B-9A75BFB0099F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerTracker9000.Tests.Unit", "BeerTracker9000.Tests.Unit\BeerTracker9000.Tests.Unit.csproj", "{4E600902-30AC-41BD-9CFA-61E5AA10D444}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3279F53E-554D-4E22-956B-9A75BFB0099F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3279F53E-554D-4E22-956B-9A75BFB0099F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3279F53E-554D-4E22-956B-9A75BFB0099F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E600902-30AC-41BD-9CFA-61E5AA10D444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E600902-30AC-41BD-9CFA-61E5AA10D444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E600902-30AC-41BD-9CFA-61E5AA10D444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E600902-30AC-41BD-9CFA-61E5AA10D444}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
