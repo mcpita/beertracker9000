@@ -65,6 +65,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\mug_logo.svg" />
+    <Content Include="logo_examples.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
