@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bower.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -66,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="img\mug_logo.svg" />
+    <Content Include="Index.html" />
     <Content Include="logo_examples.html" />
     <Content Include="Web.config" />
   </ItemGroup>
