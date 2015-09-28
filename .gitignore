@@ -204,3 +204,4 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 src/BeerTracker9000/bower_components
+src/BeerTracker9000/dist/
